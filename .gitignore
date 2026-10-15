@@ -1,0 +1,15 @@
+# Only user documentation and examples belong in this repository.
+.DS_Store
+.env
+.env.*
+*.log
+node_modules/
+.wrangler/
+backups/
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+*.p12
+*.pfx
